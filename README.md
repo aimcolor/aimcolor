@@ -5,7 +5,7 @@
     <b>
       システムアナリスト
       <br>
-      join in discord.gg/easebot
+      join in discord.gg/duozinho
       <br>
 </div>
 <div align="center">
